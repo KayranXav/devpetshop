@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.banner{
+    background-image: url(/img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 120px 80px;
+}
+
+.logo{
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.primeiro{
+    font-size: 35px;
+    margin: 0px 0px 5px 0px;
+}
+
+.primeiro img{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.segundo{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.banner-info{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0px auto;
+    background-color: #ffffffc4;
+    box-shadow: 0px 8px 32px 1px #1f26875e;
+}
+
+.banner-info h1{
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0px 0px 40px 0px;
+}
+
+.banner-info p{
+    width: 200px;
+    padding: 25px;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.banner-info p a{
+    color: #fff;
+}
+
+.banner-info p img{
+    width: 20px;
+}
+
+
+.servicos{
+    width: 100%;
+    padding: 120px 80px;;
+}
+
+.servicos h2{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.servicos .lista-servicos{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.servicos span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+.lista-servicos ul{
+    list-style: square;
+}
+
+.lista-servicos ul li{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.servicos-images{
+    max-width: 800px;
+    margin: 0 auto 0 auto;;
+}
+
+.servicos-images img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.faixa p{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.faixa span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+.faixa a{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.links img{
+    width: 50px;
+    height: 50px;
+}
+
+.marcas{
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.marcas h2{
+    font-size: 36px;
+    color: #3c183c;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.cont{
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+.cont img{
+    width: 148px;
+    height: 148px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.onde-estamos{
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.onde-estamos h2{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.onde-estamos p{
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+
+.rodape{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #3c184e;
+}
+
+.rodape p{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.rodape p a{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: underline;
+}
